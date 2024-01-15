@@ -39,3 +39,21 @@ Currently, i18nease recognizes the following translation functions.
 1. localize('key', 'default message")
 2. t('key')
 3. $t('key')
+
+## Privacy Agreement
+
+All features of the i18nEase extension are completely offline (including authorization and activation). It does not collect any information and has no telemetry or embedded points.
+
+The i18nEase extension will support text translation through the gpt api in the future. We will send the text to the api address you have configured. It will not connect to the i18nEase extension server.
+
+## End User License Agreement (EULA)
+
+This End User License Agreement (“Agreement”) is a legal agreement between you, the user (“User” or “You”), and the software service provider (“We” or “Service Provider”). Please read the following terms and conditions carefully.
+
+1. Free TrialsOur software offers an unlimited number of free trials. Users can repeatedly test all features of the software without any charge.
+2. License Key GenerationUpon purchasing the software, users will be able to generate license keys using the provided order number and machine code at the time of purchase. Each purchase is entitled to generating up to 5 license keys.
+3. RestrictionsUsers are prohibited from cracking, reselling, redeveloping, or republishing the software. Any violation of these behaviors will result in legal action.
+
+Disclaimer of WarrantyUsers may encounter damages due to system instability, compatibility issues, and other factors while using the software. We are not responsible for any direct or indirect losses caused by these reasons.
+
+Governing Law and JurisdictionThis Agreement is signed in Xuhui District, Shanghai, People’s Republic of China. Any disputes about the content or the execution of this Agreement, including but not limited to contract or other property rights disputes, shall first be attempted to be settled through friendly negotiation between both parties; if negotiation fails, both parties agree to submit the dispute to the jurisdiction and resolution by the People’s Court of Xuhui District, Shanghai.
