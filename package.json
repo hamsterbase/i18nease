@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "dev": "vitepress dev",
+    "docs:build": "vitepress build"
+  },
+  "dependencies": {
+    "vitepress": "1.0.0-rc.36"
+  }
+}

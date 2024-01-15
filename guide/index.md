@@ -1,4 +1,8 @@
-# i18nease
+---
+outline: deep
+---
+
+# Get started
 
 You can search for i18nease in the VS Code extension marketplace and download it. The store address is [here](https://marketplace.visualstudio.com/items?itemName=hamsterbase.i18nease).
 
