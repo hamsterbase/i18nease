@@ -7,7 +7,7 @@ hero:
   text: "internationalization Simplified."
   actions:
     - theme: brand
-      text: Get Started Free
+      text: Unlimited free trial
       link: /guide/
 
 features:
