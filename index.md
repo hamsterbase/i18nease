@@ -15,4 +15,6 @@ features:
     details: Effortlessly parse your source code to create locale configurations without manual intervention.
   - title: Dynamic Updates
     details: Our system intelligently regenerates your localization files in response to code changes, keeping your internationalization in sync.
+  - title: No Vendor Lock-in
+    details: No runtime dependencies, you can continue to use your favorite i18n library.
 ---
