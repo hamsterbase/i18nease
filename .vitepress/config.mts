@@ -20,6 +20,7 @@ export default defineConfig({
             { text: "Get started", link: "/guide/" },
             { text: "Commands", link: "/guide/commands" },
             { text: "Config", link: "/guide/config" },
+            { text: "Changelog", link: "/guide/changelog" },
           ],
         },
       ],
