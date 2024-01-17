@@ -15,3 +15,7 @@ Execute the `i18nease: Disable auto generate locale config` command to stop moni
 ## Activate i18n Ease
 
 Run the command `i18nease: Activate i18n Ease` to activate i18n Ease.
+
+## Translate
+
+Run the command `i18nease: Translate` to translate the locale config.

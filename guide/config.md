@@ -48,3 +48,70 @@ License key. You can get it from [Store](https://hamsterbase.com/store/).
   "i18nease.license": "YOUR_LICENSE_KEY"
 }
 ```
+
+## exclude_dir
+
+- Type: `string[]`
+
+Exclude folders. i18nease will not parse these folders.
+
+```json
+{
+  "i18nease.exclude_dir": ["dist/**"]
+}
+```
+
+## exclude_locale_key
+
+- Type: `string[]`
+
+locale key to exclude. i18nease will not not generate these locale key.
+
+For example, if you set `exclude_locale_key` to `["^colors\\."]`, i18nease will not generate the locale key that starts with `colors.`.
+
+```json
+{
+  "i18nease.exclude_locale_key": ["^colors\\."]
+}
+```
+
+## openai_base_url
+
+- Type: `string`
+
+OpenAI base url. You can get it from [OpenAI](https://platform.openai.com/docs/api-reference/introduction).
+
+```json
+{
+  "i18nease.openai_base_url": "https://api.openai.com/v1"
+}
+```
+
+## openai_api_key
+
+- Type: `string`
+
+i18nEase 不会主动保存你的 key , 如果你不想每次翻译的时候都输入，可以添加到 vs code 的用户设置中。
+
+```json
+{
+  "i18nease.openai_api_key": "YOUR_OPENAI_API_KEY"
+}
+```
+
+## openai_model
+
+- Type: `string`
+
+Supported models:
+
+- `gpt-4-1106-preview`
+- `gpt-4`
+- `gpt-4-32k`
+- `gpt-3.5-turbo-1106`
+
+```json
+{
+  "i18nease.openai_model": "gpt-3.5-turbo-1106"
+}
+```
