@@ -30,10 +30,10 @@ So, taking this idea, I developed a vscode plugin called [`i18nEase`](https://i1
 	</tr>
 	<tr>
 		<td>
-			<img src="./images/01.gif">
+			<img src="../images/01.gif">
 		</td>
 		<td>
-			<img src="./images/02.gif">
+			<img src="../images/02.gif">
 		</td>
 	</tr>
 </table>
