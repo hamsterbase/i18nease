@@ -12,7 +12,7 @@ hero:
 
 features:
   - title: Seamless Integration
-    details: Effortlessly parse your source code to create locale configurations without manual intervention.
+    details: Effortlessly parse your source code to create localization files without manual intervention.
   - title: Dynamic Updates
     details: Our system intelligently regenerates your localization files in response to code changes, keeping your internationalization in sync.
   - title: No Vendor Lock-in
