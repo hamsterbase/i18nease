@@ -1,6 +1,8 @@
-# i18nease
+# [i18nEase](https://i18nease.hamsterbase.com/)
 
-You can search for i18nease in the VS Code extension marketplace and download it. The store address is [here](https://marketplace.visualstudio.com/items?itemName=hamsterbase.i18nease).
+Please note that i18nEase is a **commercial product** and not open source. This repository is only used to collect feedback and suggestions.
+
+You can search for i18nease in the VS Code extension marketplace and download it. The store address is [here](https://marketplace.visualstudio.com/items?itemName=hamsterbase.i18nease). i18nEase supports unlimited free trial. The first time you run it, activation is required, which you can choose to do for free. Once activated, as long as the current window is not closed, it will remain active.
 
 <table>
 	<tr>
@@ -23,9 +25,7 @@ You can search for i18nease in the VS Code extension marketplace and download it
 
 ## How to use i18nease
 
-After installing the plugin, run the `i18nease: Generate locale config` command, and it will automatically parse your source code and generate the ;ocalize config.
-
-The first time you run it, activation is required, which you can choose to do for free. Once activated, as long as the current window is not closed, it will remain active.
+After installing the plugin, run the `i18nease: Generate locale config` command, and it will automatically parse your source code and generate the localize config.
 
 ## Why should I use i18nease?
 
