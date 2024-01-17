@@ -2,6 +2,25 @@
 
 You can search for i18nease in the VS Code extension marketplace and download it. The store address is [here](https://marketplace.visualstudio.com/items?itemName=hamsterbase.i18nease).
 
+<table>
+	<tr>
+		<th width="50%">
+			Dynamic Updates
+		</th>
+		<th width="50%">
+	    GPT translate
+		</th>
+	</tr>
+	<tr>
+		<td>
+			<img src="./images/01.gif">
+		</td>
+		<td>
+			<img src="./images/02.gif">
+		</td>
+	</tr>
+</table>
+
 ## How to use i18nease
 
 After installing the plugin, run the `i18nease: Generate locale config` command, and it will automatically parse your source code and generate the ;ocalize config.
