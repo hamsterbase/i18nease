@@ -8,7 +8,7 @@ You can search for i18nease in the VS Code extension marketplace and download it
 
 ## How to use i18nease
 
-After installing the plugin, run the `i18nease: Generate locale config` command, and it will automatically parse your source code and generate the ;ocalize config.
+After installing the plugin, run the `i18nease: Generate locale config` command, and it will automatically parse your source code and generate the localize config.
 
 The first time you run it, activation is required, which you can choose to do for free. Once activated, as long as the current window is not closed, it will remain active.
 
