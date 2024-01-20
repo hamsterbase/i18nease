@@ -4,6 +4,12 @@
 
 2024-01-20
 
+- Feature: Fix the issue of translation failure in some cases.
+
+## 0.5.0
+
+2024-01-20
+
 - Feature: Improve the accuracy of translation.
 
 ## 0.4.0
