@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.4.0
+
+2024-01-20
+
+- Feature: Supports parsing template strings that do not use `${}` syntax.
+
 ## 0.3.0
 
 2024-01-16
