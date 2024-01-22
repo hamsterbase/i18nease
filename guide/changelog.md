@@ -1,6 +1,12 @@
 # Changelog
 
-## 0.5.0
+## 0.9.0
+
+2024-01-22
+
+- Feature: Support config `locale_config_name`
+
+## 0.7.0 and 0.6.0
 
 2024-01-20
 
