@@ -1,5 +1,19 @@
 # Config
 
+## locale_config_name
+
+- Type: `string`
+
+localization config name, default is `{locale}.json`.
+
+For example, if you set `locale_config_name` to `{locale}.json`, all parsed messages will be added to `${locale_path}/{locale}.json`.
+
+```json
+{
+  "i18nease.locale_config_name": "{locale}.json"
+}
+```
+
 ## locale_path
 
 - Type: `string`
