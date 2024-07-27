@@ -123,6 +123,9 @@ Supported models:
 - `gpt-4`
 - `gpt-4-32k`
 - `gpt-3.5-turbo-1106`
+- `gpt-4o`
+- `gpt-4-turbo`
+- `gpt-4o-mini`
 
 ```json
 {
