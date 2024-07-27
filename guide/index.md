@@ -2,6 +2,8 @@
 outline: deep
 ---
 
+# i18nEase
+
 ## Why did I develop this plugin?
 
 Previously, when developing international software, I encountered some problems, such as:
