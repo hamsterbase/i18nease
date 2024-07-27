@@ -105,7 +105,7 @@ OpenAI base url. You can get it from [OpenAI](https://platform.openai.com/docs/a
 
 - Type: `string`
 
-i18nEase 不会主动保存你的 key , 如果你不想每次翻译的时候都输入，可以添加到 vs code 的用户设置中。
+i18nEase will not save your key automatically. If you don't want to enter it every time you translate, you can add it to your VS Code user settings.
 
 ```json
 {

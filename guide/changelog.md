@@ -2,6 +2,12 @@
 
 ## 0.9.0
 
+2024-07-27
+
+- Support `gpt-4o` and `gpt-4-turbo` and `gpt-4o-mini` model.
+
+## 0.8.0
+
 2024-01-22
 
 - Feature: Support config `locale_config_name`
